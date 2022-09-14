@@ -1,0 +1,3 @@
+[submodule "knd/themes/no-style-please"]
+	path = knd/themes/no-style-please
+	url = git@github.com:Masellum/hugo-theme-nostyleplease.git
